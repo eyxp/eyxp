@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Jonas from Germany<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I bring 8 years of experience in software development, specializing in building robust and scalable solutions<br>- ⚡If you're interested in collaborating on projects, please feel free to reach out to me.</p>
 
 ###
 
