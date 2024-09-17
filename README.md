@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Exyp</h1>
-<h3 align="center">Software-Developer</h3>
+<h3 align="center">Software-Developer</h3><br>
+
+<h5>With over 8 years of experience as a Full-Stack Web Developer and Software Engineer, I bring a wealth of knowledge and expertise to every project. My journey has equipped me with a deep understanding of both front-end and back-end technologies, allowing me to build robust and scalable applications. I am passionate about coding, problem-solving, and continually learning new technologies to stay at the forefront of the industry. Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!</h5>
 <hr></hr>
 
 # 💻 Tech Stack:
